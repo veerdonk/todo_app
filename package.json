@@ -1,0 +1,25 @@
+{
+  "name": "todo_app",
+  "version": "1.0.0",
+  "description": "a simple to-do app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veerdonk/todo_app.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "David van de Veerdonk <me@dvandeveerdonk.nl> (https://dvandeveerdonk.nl)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veerdonk/todo_app/issues"
+  },
+  "homepage": "https://github.com/veerdonk/todo_app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
